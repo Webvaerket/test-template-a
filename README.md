@@ -1,2 +1,2 @@
 # test-template-a
-resposive css practice
+responsive system practice
